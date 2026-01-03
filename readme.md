@@ -1,110 +1,89 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🚀 Roadmap de Carreira em QA/Automação/Dados
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Este repositório documenta minha jornada de transição de carreira para **QA/Automação/Dados**, estruturada em duas etapas principais conduzidas por agentes especializados.
 
-</p>
+---
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 🧑‍💼 Função dos Agentes
 
-<br/>
-<br/>
+### Agent 1 - Entrevistador de Perfil
+Responsável por conduzir uma entrevista estruturada de 7 perguntas para entender:
+- Interesses e motivações
+- Experiência prévia
+- Disponibilidade de estudo
+- Preferências de trabalho
+- Objetivos profissionais
 
-## 💻 Sobre o Projeto
+**Resultado:** Identificação das carreiras mais promissoras e seleção da área de **QA/Automação/Dados**.
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+---
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+### Agent 2 - Planejador de Carreira
+Responsável por criar um plano de estudos personalizado com:
+- Visão do dia a dia da carreira
+- Mapa de skills essenciais e complementares
+- Roadmap de 90 dias adaptado à carga horária semanal
+- Projeto de portfólio para GitHub
+- Roteiro de entrevistas
+- Trilha recomendada na DIO
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 🗺️ Mapeamento Realizado
 
-- _Exemplo_:
+- **Carreira escolhida:** QA/Automação/Dados  
+- **Horas disponíveis por semana:** 20h  
+- **Nível de experiência:** já possui experiência em tecnologia (Analista de Testes)  
+- **Objetivo:** transição de carreira  
+- **Preferência:** dados ou código  
+- **Interesses técnicos:** dados, inteligência artificial, QA, ServiceNow, games  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+---
 
-- [Outros pré-requisitos, se aplicável]
+## 📅 Roadmap Resumido (90 dias)
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+- **Mês 1 - Fundamentos:** lógica de programação, testes manuais, SQL básico  
+- **Mês 2 - Prática:** automação com Selenium/Cypress, integração com CI/CD  
+- **Mês 3 - Portfólio e Preparação:** projeto completo de automação, documentação, simulação de entrevistas  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+---
 
-- [Lista das habilidades principais a serem desenvolvidas]
+## 📂 Projeto de Portfólio
 
-  - [Subhabilidades relacionadas, se aplicável]
+**Título:** Automação de Testes para um E-commerce  
+**Escopo:** Criar suíte de testes automatizados para login, cadastro, busca de produtos, carrinho e checkout.  
+**Entregáveis:**  
+- Scripts de automação  
+- Documentação dos casos de teste  
+- Relatório de execução  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+---
 
-## 🎯 Objetivos e Resultados Esperados
+## 💬 Roteiro de Entrevistas (Exemplos)
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+1. O que é teste automatizado?  
+2. Diferença entre teste manual e automatizado  
+3. Como validar dados em banco durante um teste  
+4. O que é CI/CD e relação com QA  
+5. Desafios comuns em automação de testes  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+---
 
-<!--START_SECTION:footer-->
+## 🎓 Trilha DIO Recomendada
 
-<br />
-<br />
+**Trilha:** *Quality Assurance Experience*  
+**Por que:** cobre fundamentos de QA, automação com Selenium e boas práticas de qualidade.  
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+---
+
+## ✅ Conclusão
+
+Este roadmap foi construído em duas etapas:  
+- **Agent 1** identificou meu perfil e sugeriu carreiras.  
+- **Agent 2** estruturou um plano completo de estudos e prática.  
+
+Com 20h semanais dedicadas, o objetivo é realizar uma **transição de carreira sólida para QA/Automação/Dados**, aproveitando minha experiência prévia em testes e construindo um portfólio robusto para entrevistas e oportunidades futuras.
+
+---
+
+📌 *Lembre-se: constância é mais importante que velocidade.*
